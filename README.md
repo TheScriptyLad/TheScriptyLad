@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bharat</h1>
 <h3 align="center">Web-developer | CG Artist | Graphic designer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/gif/kermit-fast-typing-7z0yjelb06csoray.html">
+<img src="https://gifdb.com/images/high/kermit-fast-typing-7z0yjelb06csoray.webp">
 
 - 🌱 I’m currently learning Bootstrap and Game development
 
