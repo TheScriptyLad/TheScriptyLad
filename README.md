@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋, I'm Bharat</h1>
 <h3 align="center">Web-developer | CG Artist | Graphic designer</h3>
 
-<img align="right" width="100%" src="https://gifdb.com/images/high/frustrated-monkey-typing-w7suu5vt6wdslqoi.webp">
+<img align="right" width="400px" src="https://gifdb.com/images/high/frustrated-monkey-typing-w7suu5vt6wdslqoi.webp">
 
-- 🌱 I’m currently learning Bootstrap and Game development
+<p>- 🌱 I’m currently learning Bootstrap and Game development
 
 - 💬 Ask me about HTML, CSS, JavaScript,C,C++,C#
 
-- 📫 How to reach me contact.thescriptylad@gmail.com
+- 📫 How to reach me contact.thescriptylad@gmail.com </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
