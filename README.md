@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Bharat</h1>
 <h3 align="center">Web-developer | CG Artist | Graphic designer</h3>
 
-<img align="right" width="400px" src="https://gifdb.com/images/high/frustrated-monkey-typing-w7suu5vt6wdslqoi.webp">
+<img align="right" padding-bottom="20px" width="400px" src="https://gifdb.com/images/high/frustrated-monkey-typing-w7suu5vt6wdslqoi.webp">
 
 - 🌱 I’m currently learning Bootstrap and Game development
 
