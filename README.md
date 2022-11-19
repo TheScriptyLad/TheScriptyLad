@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bharat</h1>
 <h3 align="center">Web-developer | CG Artist | Graphic designer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/programmer-programming-computer-typing-gif-7603564">
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/programmer-programming-computer-typing-gif-7603564.gif">
 
 - 🌱 I’m currently learning Bootstrap and Game development
 
