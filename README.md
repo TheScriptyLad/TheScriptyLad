@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bharat</h1>
 <h3 align="center">Web-developer | CG Artist | Graphic designer</h3>
-<div class="tenor-gif-embed" data-postid="7603564" data-share-method="host" data-aspect-ratio="1.78" data-width="100%"><a href="https://tenor.com/view/programmer-programming-computer-typing-gif-7603564">Programmer Programming GIF</a>from <a href="https://tenor.com/search/programmer-gifs">Programmer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+(img align="right" alt="Coding" width="400" src="https://tenor.com/view/programmer-programming-computer-typing-gif-7603564")
 
 - 🌱 I’m currently learning Bootstrap and Game development
 
