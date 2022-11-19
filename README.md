@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bharat</h1>
 <h3 align="center">Web-developer | CG Artist | Graphic designer</h3>
 
-<img align="right" width="400px" src="https://media.tenor.com/JJ_is357rXYAAAAC/spike-monkey-typing.gif">
+<img align="right" width="400px" src="https://drive.google.com/file/d/1JI6pPjvaoUiG_t3dH6pdwQaSUU4N3YlR/view?usp=sharing">
 
 - 🌱 I’m currently learning Bootstrap and Game development
 
