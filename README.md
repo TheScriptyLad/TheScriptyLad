@@ -1,4 +1,4 @@
-<img src="https://thumbs2.imgbox.com/80/7a/tyYNyfmA_t.png" alt="image host"/>
+<img src="https://thumbs2.imgbox.com/80/7a/tyYNyfmA_t.png" height="640px" width="320px" alt="image host"/>
 
 <h1 align="center">Hi 👋, I'm Bharat</h1>
 <h3 align="center">Web-developer | CG Artist | Graphic designer</h3>
