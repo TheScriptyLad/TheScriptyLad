@@ -7,7 +7,7 @@
 
 <p>- 🌱 I’m currently learning Bootstrap and Game development
 
-- 💬 Ask me about HTML, CSS, JavaScript,C,C++,C#
+- 💬 Ask me about HTML, CSS,,C
 
 - 📫 How to reach me contact.thescriptylad@gmail.com </p>
 
