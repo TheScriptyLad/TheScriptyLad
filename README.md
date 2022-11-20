@@ -5,9 +5,9 @@
 
 <img align="right" width="400px" src="https://gifdb.com/images/high/frustrated-monkey-typing-w7suu5vt6wdslqoi.webp">
 
-<p>- 🌱 I’m currently learning Bootstrap and Game development
+<p>- 🌱 I’m currently learning Bootstrap.
 
-- 💬 Ask me about HTML, CSS,,C
+- 💬 Ask me about HTML, CSS,C
 
 - 📫 How to reach me contact.thescriptylad@gmail.com </p>
 
